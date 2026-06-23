@@ -7,16 +7,17 @@ An interactive, 3-page Power BI dashboard designed to analyze lending distributi
 ## 📊 Dashboard Preview
 
 ### 1. Loan Default & Overview
-![Loan Default Overview](<img width="100%" alt="Loan Default Overview" src="Screenshot 2026-06-23 142546.png" />)
+<img width="100%" alt="Loan Default Overview" src="Screenshot 2026-06-23 142546.png" />
 *Key Focus:* High-level overview tracking loan volume by purpose, age distribution, and historical default rates. Unemployed applicants correlate with the highest default rates (3.39%), while historical defaults peaked in 2015-2016 at over 11.7%.
 
 ### 2. Applicant Demographics & Financial Profile
-![Applicant Demographics](<img width="100%" alt="Applicant Demographics" src="Screenshot 2026-06-23 145408.png" />)
+<img width="100%" alt="Applicant Demographics" src="Screenshot 2026-06-23 145408.png" />
 
 *Key Focus:* Breakdown of loan metrics across credit categories, marital statuses, educational backgrounds, and dependency statuses. Major volume drivers include applicants with medium/high credit scores and those holding a Bachelor's degree.
 
 ### 3. Financial Risk Metrics
-![Financial Risk Metrics](img width="100%" alt="Financial Risk Metrics" src="Screenshot 2026-06-23 145417.png" />)
+<img width="100%" alt="Financial Risk Metrics" src="Screenshot 2026-06-23 145417.png" />
+
 *Key Focus:* Advanced evaluation using dynamic tracking mechanisms. Displays Year-over-Year (YOY) loan fluctuations and paths total loan volumes ($32.58bn) across structural income brackets and employment types using Decomposition Trees.
 
 ---
